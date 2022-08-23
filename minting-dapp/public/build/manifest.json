@@ -1,0 +1,17 @@
+{
+  "build/main.css": "http://localhost:8080/build/main.css",
+  "build/main.js": "http://localhost:8080/build/main.js",
+  "build/images/Background2.png": "http://localhost:8080/build/images/Background2.png",
+  "build/images/Background.png": "http://localhost:8080/build/images/Background.png",
+  "build/images/background.png": "http://localhost:8080/build/images/background.1d5d7957.png",
+  "build/images/preview.png": "http://localhost:8080/build/images/preview.png",
+  "build/images/5.png": "http://localhost:8080/build/images/5.png",
+  "build/images/3.png": "http://localhost:8080/build/images/3.png",
+  "build/images/1.png": "http://localhost:8080/build/images/1.png",
+  "build/images/0.png": "http://localhost:8080/build/images/0.png",
+  "build/images/6.png": "http://localhost:8080/build/images/6.png",
+  "build/images/4.png": "http://localhost:8080/build/images/4.png",
+  "build/images/fav.png": "http://localhost:8080/build/images/fav.png",
+  "build/images/logo1.png": "http://localhost:8080/build/images/logo1.png",
+  "build/images/logo.png": "http://localhost:8080/build/images/logo.png"
+}
